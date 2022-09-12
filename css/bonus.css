@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+}
+.bordo{
+    position: relative;
+    top: -20px;
+    left: 250px;
+}
+.bordo2{
+    position: relative;
+left: 10;
+}
+/* header */
+
+#sfondo{
+    height: 100px;
+    background-color: cornflowerblue;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    position: relative;
+    
+}
+#logo {
+    width: 300px;
+    height: 40px;
+    background-image: url(../img/logo.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position:absolute;
+    top: 50px;
+    left: 250px;
+}
+#titolo{
+    width: 1400px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 900;
+    
+}
+.testogrigio{
+    color: darkgray;
+    position: relative;
+    top: -25px;
+}
+#testoblu{
+    color: aqua;
+}
+/* foto */
+.timfoto{
+    width: 500px;
+    height: 350px;
+    background-size: cover;
+    position: relative;
+    top: -60px;
+    left: 250px;
+    
+}
+#riferimentifoto{        
+    position: relative;
+    top: -80px;
+    left: 250px;
+}   
+/* paragrafo */
+mark {
+    background-color: yellow;
+  }
+ .paragrafoposizione{
+    width: 1000px;
+    position: relative;
+    top: -90px;
+    left: 250px;
+ } 
+ .lista{
+    width: 1000px;
+    position: relative;
+    top: -70px;
+    left: 225px;
+ }
+ /* tabella */
+ .primafila{
+    background-color: rgb(0, 132, 255);
+    color: white;
+ }
+ .secondaquartafila{
+    background-color: rgba(39, 152, 222, 0.56);
+ }
+ .tabellaparagrafo{
+    width: 1000px;
+    position: relative;
+    top: -60px;
+    left: 225px;
+ }
+ /* footer */
+ footer{
+    position: relative;
+    left: 225px;
+    top: -40px;
+ }
+ h3{
+    color: rgb(208, 207, 207);
+ }
