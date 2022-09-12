@@ -75,3 +75,25 @@ mark {
     top: -70px;
     left: -15px;
  }
+ /* tabella */
+ .primafila{
+    background-color: rgb(0, 132, 255);
+    color: white;
+ }
+ .secondaquartafila{
+    background-color: rgba(39, 152, 222, 0.56);
+ }
+ .tabellaparagrafo{
+    position: relative;
+    top: -60px;
+    left: 10px;
+ }
+ /* footer */
+ footer{
+    position: relative;
+    left: 10px;
+    top: -40px;
+ }
+ h3{
+    color: rgb(208, 207, 207);
+ }
